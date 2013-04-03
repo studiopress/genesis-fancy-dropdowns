@@ -1,10 +1,10 @@
 # Genesis Fancy Dropdowns #
-Contributors: nathanrice
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5553118
-Tags: genesis, superfish
-Requires at least: 3.5
-Tested up to: 3.5
-Stable tag: 1.0.0
+* Contributors: nathanrice
+* Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5553118
+* Tags: genesis, superfish
+* Requires at least: 3.5
+* Tested up to: 3.5
+* Stable tag: 1.0.0
 
 Adds fancy dropdowns to your Genesis navigation menus.
 
