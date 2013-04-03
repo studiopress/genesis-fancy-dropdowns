@@ -14,4 +14,4 @@ License: GPL-2.0+
 License URI: http://www.opensource.org/licenses/gpl-license.php
 */
 
-add_filter( 'genesis_superfish_enabled', true );
+add_filter( 'genesis_superfish_enabled', '__return_true' );
